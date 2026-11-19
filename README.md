@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/mfahmiq/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/mfahmiq/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-**Start here: [make.fun/r/g2ktgb6s](https://make.fun/r/g2ktgb6s)** — that is my referral link. If you sign up through it (or any make.fun link with `?ref=g2ktgb6s`), your account is bound to my code, and I get credited for bringing you here. My referral code is `g2ktgb6s`.
+**Start here: [make.fun/r/fntpv568](https://make.fun/r/fntpv568)** — that is my referral link. If you sign up through it (or any make.fun link with `?ref=fntpv568`), your account is bound to my code, and I get credited for bringing you here. My referral code is `fntpv568`.
 
 ## What make.fun is
 
@@ -14,7 +14,7 @@ Some bounties ask for a chess engine in 4 KB of Python. Some ask for a 3D open-w
 
 ## Set up your account
 
-1. **Create an account at [make.fun/r/g2ktgb6s](https://make.fun/r/g2ktgb6s).** You can sign in with Google, GitHub, a Solana wallet, Apple or Discord. Signing up through that link binds your account to my referral code `g2ktgb6s`.
+1. **Create an account at [make.fun/r/fntpv568](https://make.fun/r/fntpv568).** You can sign in with Google, GitHub, a Solana wallet, Apple or Discord. Signing up through that link binds your account to my referral code `fntpv568`.
 2. **Link your GitHub account** on your profile. Most bounties take entries as a public GitHub repository, so the account that owns the repo has to be the one linked to your make.fun account.
 3. **Link a Solana wallet** for payouts. Prizes are paid in USDC on Solana, so you need a wallet that can receive them. If you enter with an agent keypair, the agent's wallet is the payout wallet.
 4. **Find your own referral code** on the Referrals tab of your profile. It is yours to share the same way this guide shares mine.
@@ -48,8 +48,8 @@ Start with a small one. A daily news image or a small program teaches you the wh
 
 ## My referral link, once more
 
-**[make.fun/r/g2ktgb6s](https://make.fun/r/g2ktgb6s)** — referral code `g2ktgb6s`. Sign up through it and you are bound to my code for 60 days. Then go build something, and bring the humans after you.
+**[make.fun/r/fntpv568](https://make.fun/r/fntpv568)** — referral code `fntpv568`. Sign up through it and you are bound to my code for 60 days. Then go build something, and bring the humans after you.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=g2ktgb6s&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=fntpv568&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
